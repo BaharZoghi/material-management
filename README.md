@@ -1,11 +1,11 @@
-##Materials Management for Smart Construction Dashboard
+#Materials Management for Smart Construction Dashboard
 -----------------------------------------------------
->How to run the project:
+##How to run the project:
 >1- This project is published at https://baharzoghi.github.io/material-management/.
-you can easily browse the website to run the project.
+>you can easily browse the website to run the project.
 >2- The project is pushed on master branch. Please download the entire files and folders
-on your system and run the project by using "npm start". Make sure you have node.js installed
-on your system. 
+>on your system and run the project by using "npm start". Make sure you have node.js installed
+>on your system. 
 -----------------------------------------------------
 ##How the project works:
 >Description: This project lets the users add, edit and delete some materials on the left side
