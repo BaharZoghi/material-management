@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/material-management/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/material-management/static/js/main.cacd5b51.chunk.js",
+    "main.js.map": "/material-management/static/js/main.cacd5b51.chunk.js.map",
+    "runtime-main.js": "/material-management/static/js/runtime-main.f58a2a55.js",
+    "runtime-main.js.map": "/material-management/static/js/runtime-main.f58a2a55.js.map",
+    "static/js/2.d0cc5db2.chunk.js": "/material-management/static/js/2.d0cc5db2.chunk.js",
+    "static/js/2.d0cc5db2.chunk.js.map": "/material-management/static/js/2.d0cc5db2.chunk.js.map",
+    "static/js/3.54d94fc5.chunk.js": "/material-management/static/js/3.54d94fc5.chunk.js",
+    "static/js/3.54d94fc5.chunk.js.map": "/material-management/static/js/3.54d94fc5.chunk.js.map",
+    "index.html": "/material-management/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/material-management/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d0cc5db2.chunk.js.LICENSE.txt": "/material-management/static/js/2.d0cc5db2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f58a2a55.js",
+    "static/js/2.d0cc5db2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cacd5b51.chunk.js"
+  ]
+}
