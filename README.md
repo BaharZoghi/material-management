@@ -20,4 +20,4 @@
 >*  By adding, deleting, and editing an item (material), total cost will be updated.
 -----------------------------------------------------
 
-#ENJOJ USING THE APP!
+#ENJOY USING THE APP! :)
